@@ -1,7 +1,7 @@
 
 ## My submission for Project 1
 
-The four R files and corresponding PNG files are as specified in the assignment. 
+The four R files and corresponding PNG files (480x480) are as specified in the assignment. 
 
 The scripts assume that the data file has been downloaded, unzipped and stored in the same directory as the scripts.
 
