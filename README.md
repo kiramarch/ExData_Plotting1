@@ -1,4 +1,11 @@
-## Introduction
+
+## My submission for Project 1
+
+The four R files and corresponding PNG files are as specified in the assignment. 
+
+The scripts assume that the data file has been downloaded, unzipped and stored in the same directory as the scripts.
+
+## Assignment instructions -- not modified
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
