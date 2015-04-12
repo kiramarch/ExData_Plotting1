@@ -3,9 +3,12 @@
 
 The four R files and corresponding PNG files (480x480) are as specified in the assignment. 
 
-The scripts assume that the data file has been downloaded, unzipped and stored in the same directory as the scripts.
+The scripts assume that the data file has been downloaded, unzipped and stored in the same directory as the scripts. Each script reads the data, so they can be run independently. 
 
-The scripts also require lubridate and dplyr to be installed and loaded.
+The scripts require lubridate and dplyr to be installed and loaded.
+
+NOTE: I did NOT take on the optional suggestion of reading only the two days in question from the data file...on my computer the additional time to read the whole file was not an issue.
+
 
 ## Assignment instructions -- not modified
 
